@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893252530232",
+    "firebase_url": "https://recyclemedia-1ee56.firebaseio.com",
+    "project_id": "recyclemedia-1ee56",
+    "storage_bucket": "recyclemedia-1ee56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893252530232:android:8a651faa0f35e36d",
+        "android_client_info": {
+          "package_name": "in.tvac.bevylabs.photoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893252530232-q2abi0v63phn3rsmm4a7et1j3au64icc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcU3d-ImWyrlQJAw8j3v2oMCd1k8JxlqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893252530232-q2abi0v63phn3rsmm4a7et1j3au64icc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
